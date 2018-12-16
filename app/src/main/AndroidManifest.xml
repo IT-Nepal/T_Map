@@ -32,6 +32,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data android:name="API_KEY"
+            android:value="AIzaSyDBQfcC7_dpTBbuUIjgeE8mSv6o9H9UlfI"/>
     </application>
 
 </manifest>
